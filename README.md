@@ -1,4 +1,4 @@
-1. 项目名称：禅定空间
+![微信图片_20240305212815](https://github.com/rrt178/meditation-space/assets/128457796/2a5aa820-644a-404c-bc9d-3173860a7a10)1. 项目名称：禅定空间
 
 2. 小组的 GitHub地址：https://github.com/rrt178/meditation-space
 
@@ -42,4 +42,4 @@
   + 可以查看自己扔出和捡到的漂流瓶的记录，删除或者收藏它们
 
 5. 思维导图
-
+![微信图片_20240305212815](https://github.com/rrt178/meditation-space/assets/128457796/89b027aa-d1a4-4c33-8d4a-73b4cd65bffb)
